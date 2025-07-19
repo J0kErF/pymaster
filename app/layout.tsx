@@ -133,7 +133,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       <meta name="google-site-verification" content="Z83xElyxYH4XDJz07NQMjeXpTb99h5F7zY_XakJK2qk" />
       <body>
         <SpeedInsights />
-        <Analytics/>
+        <Analytics />
         <TranslationProvider>
           <LayoutWithDirection>{children}</LayoutWithDirection>
         </TranslationProvider>
