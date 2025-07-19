@@ -1,0 +1,60 @@
+{
+    "about": "About Us",
+    "services": "Services",
+    "contact": "Contact",
+    "blog": "Blog",
+    "hero_title": "We bring ideas to life",
+    "hero_subtitle": "PyMaster is a tech and business incubator offering full support from idea to launch: validation, development, branding, marketing, and infrastructure",
+    "services_title": "Our Services",
+    "services_list": [
+        {
+            "title": "Startup Mentorship",
+            "desc": "From idea to launch: market analysis, roadmap, business plan, and growth strategy."
+        },
+        {
+            "title": "Hackathon Production",
+            "desc": "Theme design, logistics, sponsor recruitment, and full event management."
+        },
+        {
+            "title": "Training & Courses",
+            "desc": "Private/group lessons, project help, exam prep, and online marathons."
+        },
+        {
+            "title": "Personal Project Development",
+            "desc": "Portfolio building for CV: planning, clean code, and professional publishing."
+        },
+        {
+            "title": "Business Consulting",
+            "desc": "Guidance, personal sessions, strategy fitting, and ongoing support."
+        },
+        {
+            "title": "Branding & Digital",
+            "desc": "Name, domain, design, landing page, SEO, campaigns, and brand voice."
+        }
+    ],
+    "contact_title": "Contact Us",
+    "contact_description": "We’d love to hear from you! Send us a message, schedule a call, or drop by for coffee ☕",
+    "contact_form_name": "Full Name",
+    "contact_form_phone": "Phone Number",
+    "contact_form_email": "Email Address",
+    "contact_form_message": "Your question or message",
+    "contact_form_submit": "Send Message",
+    "blog_title": "PyMaster Blog",
+    "blog_description": "Discover exclusive tips, tutorials, and inspiring stories about coding, startups, and tech — crafted to help you grow.",
+    "blog_cta": "Visit the Blog",
+    "footer_text": "PyMaster © 2025 — Where ideas are born and solutions are built.",
+    "about_title": "About PyMaster",
+    "about_paragraph_1": "PyMaster was founded on January 28, 2025, as a private initiative to teach programming. We started with tutoring and exam support, and over time we’ve supported more than 120 students across universities and colleges in Israel — including Hebrew University, University of Haifa, Tel Aviv University, Ben-Gurion University, the Technion, and more.",
+    "about_paragraph_2": "Along the way, we created a one-of-a-kind marathon with a modern and futuristic approach to learning. Participants received interactive .pymaster files with over 80 exam-level questions, hints, and full solutions – all in a fun, structured way.",
+    "about_paragraph_3": "We then expanded into entrepreneurial mentorship: turning ideas into reality through validation, research, development, launch, and marketing. We’ve helped ventures with senior profiles build end-to-end custom platforms – including UI, code, branding, and digital presence.",
+    "about_paragraph_4": "Today, PyMaster is much more than programming courses – it’s a full professional environment for planning, building, and growing tech ideas.",
+    "back_to_home": "Back to Home",
+    "blog_intro": "Read our latest articles and updates in coding, entrepreneurship, real-world experiences, and expert learning tips.",
+    "blog_post_1_title": "How to Start Learning to Code and Stay Motivated",
+    "blog_post_1_desc": "A practical guide for beginners: where to start, how to keep going, and what languages to learn.",
+    "blog_post_2_title": "Build a Personal Project for Your Portfolio",
+    "blog_post_2_desc": "Why it matters, how to pick a winning idea, and how to showcase it professionally.",
+    "blog_post_3_title": "Behind the Scenes of the PyMaster Marathon",
+    "blog_post_3_desc": "How we created an exceptional learning experience with smart files, hints, and interactive answers.",
+    "blog_read_more": "Read more →"
+}
