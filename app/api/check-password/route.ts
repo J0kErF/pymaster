@@ -15,7 +15,7 @@ export async function POST(req: NextRequest) {
     }
 
     const { password } = await req.json();
-    const correctPassword = process.env.BLOG_EDIT_PASSWORD;
+    const correctPassword = process.env.VIEW_PASSWORD;
 
     if (!password || password !== correctPassword) {
         incrementRateLimit(ip);
