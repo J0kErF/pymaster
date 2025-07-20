@@ -56,5 +56,13 @@
     "blog_post_2_desc": "Why it matters, how to pick a winning idea, and how to showcase it professionally.",
     "blog_post_3_title": "Behind the Scenes of the PyMaster Marathon",
     "blog_post_3_desc": "How we created an exceptional learning experience with smart files, hints, and interactive answers.",
-    "blog_read_more": "Read more →"
+    "blog_read_more": "Read more →",
+    "no_blog_posts": "No posts yet, follow us for the latest updates!",
+    "loading": "Loading...",
+    "no-title-found": "No title found",
+    "no-content-found": "No content found",
+    "by": "By",
+    "back_to_blog": "Back to Blog",
+    "sending_message": "Sending message...",
+    "message_sent_success": "Your message has been sent successfully! We will get back to you soon."
 }
