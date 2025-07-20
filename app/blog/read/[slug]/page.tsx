@@ -3,7 +3,7 @@ import { notFound } from "next/navigation";
 import BlogClient from "./BlogClient";
 
 interface Props {
-  params: { slug: string };
+  params: any /*{ slug: string }*/;
 }
 
 export default async function BlogReadPage({ params }: Props) {
