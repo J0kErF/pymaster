@@ -3,7 +3,7 @@ import dbConnect from "@/lib/mongodb";
 import Blog from "@/models/blog";
 
 // GET /api/blog/[slug]
-export async function GET(_: NextRequest, { params }: { params: { slug: string } }) {
+export async function GET(_: NextRequest, { params }: any) {
   await dbConnect();
 
   try {
@@ -23,7 +23,7 @@ export async function GET(_: NextRequest, { params }: { params: { slug: string }
 // PUT /api/blog/[slug]
 export async function PUT(
   req: NextRequest,
-  { params }: { params: { slug: string } }
+  { params }:any
 ) {
   await dbConnect();
 
@@ -49,7 +49,7 @@ export async function PUT(
 // DELETE /api/blog/[slug]
 export async function DELETE(
   req: NextRequest,
-  { params }: { params: { slug: string } }
+  { params }: any
 ) {
   await dbConnect();
 
